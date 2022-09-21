@@ -1,12 +1,4 @@
-# Movie store
-
-## Screens
-
-- Log in screen (@KarimMetwaly19)
-- Sign up screen (@KarimMetwaly19)
-- Home screen (@youssef-attai)
-- Movie details (@youssef-attai)
-- Watchlist (@KarimMetwaly19)
+# Movies app
 
 ## Preview
 
